@@ -1,0 +1,1 @@
+ D:\\NewApp\\bookia_app_two\\bookia_app_two\\.dart_tool\\flutter_build\\c9cb4da3595c5e41048d3111effa8411\\native_assets.yaml: 
